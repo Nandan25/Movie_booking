@@ -6,19 +6,17 @@ Backend API's for movie ticket booking developed using Nodejs,Express & MongoDb
 
 1. Clone the project
 
-2. Install node dependencies with npm install
-
-3. Add a .env file to the root folder with the mongodb configs
+2. Add a .env file to the root folder with the mongodb configs
 
 ```
 MONGODB_PASSWORD=MONGOPASSWORD
 MONGO_URL="MONGODB Connection String"
 ```
 
-4.Start node server
+2. Start node server
 
 ```
-cd server
+cd project
 npm install
 npm start
 ```
