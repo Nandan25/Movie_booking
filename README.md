@@ -5,7 +5,9 @@ Backend API's for movie ticket booking developed using Nodejs,Express & MongoDb
 ## Setup instructions
 
 1.Clone the project
+
 2.Install node dependencies with npm install
+
 3.Add a .env file to the root folder with the mongodb configs
 
 ```
